@@ -2,6 +2,8 @@
 
 ### AI Engineer | LLM Agents • RAG • AI Automation • Backend Systems
 
+> 🟢 **Available for freelance and contract work** - RAG systems, AI agents, n8n / AI automation, and AI code evaluation. Email: [amanpratapsingh1999@gmail.com](mailto:amanpratapsingh1999@gmail.com)
+
 I build production-oriented AI systems that combine **LLMs, RAG, agents, APIs, and automation** to solve real engineering and business problems.
 
 My focus is on turning AI capabilities into reliable software — with structured architectures, evaluation, observability, APIs, testing, and deployment in mind.
