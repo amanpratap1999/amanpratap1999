@@ -1,49 +1,73 @@
-# Hi, I'm Prakhar 👋
+<div align="center">
 
-### AI Engineer | LLM Agents • RAG • AI Automation • Backend Systems
-
-> 🟢 **Available for freelance and contract work** - RAG systems, AI agents, n8n / AI automation, and AI code evaluation. Email: [amanpratapsingh1999@gmail.com](mailto:amanpratapsingh1999@gmail.com)
-
-I build production-oriented AI systems that combine **LLMs, RAG, agents, APIs, and automation** to solve real engineering and business problems.
-
-My focus is on turning AI capabilities into reliable software — with structured architectures, evaluation, observability, APIs, testing, and deployment in mind.
-
----
+![Prakhar Singh - AI Engineer & Agent Architect](assets/profile-header.svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Engineer+%26+Multi-Agent+Architect;Production+LangGraph+State+Machines+%26+Guardrails;Enterprise+RAG+with+100%25+Clause-Level+Provenance;FastAPI+%2B+Redis+Streams+%2B+Vector+Search+Microservices;Available+for+Freelance+%26+Contract+Automation+($25-$50%2B)" alt="Typing SVG" />
+  </a>
+</p>
+
+[![Email](https://img.shields.io/badge/Email-amanpratapsingh1999%40gmail.com-0284C7?style=flat-square&logo=gmail&logoColor=white)](mailto:amanpratapsingh1999@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Available%20for%20Hire-00C875?style=flat-square&logo=statuspage&logoColor=white)](mailto:amanpratapsingh1999@gmail.com)
+[![Location](https://img.shields.io/badge/Location-India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![PayPal Ready](https://img.shields.io/badge/PayPal-Verified%20Business-00457C?style=flat-square&logo=paypal&logoColor=white)](mailto:amanpratapsingh1999@gmail.com)
+
+<p align="center">
+  <a href="#-featured-production-systems">Featured Systems</a> •
+  <a href="#-commercial-freelance-services">Freelance Services</a> •
+  <a href="#-technical-stack--ecosystem">Tech Stack</a> •
+  <a href="#-engineering-philosophy">Philosophy</a> •
+  <a href="#-get-in-touch">Hire Me</a>
 </p>
 
 ---
 
-## 🚀 What I Build
+</div>
 
-- 🤖 **Autonomous Multi-Agent Systems** — Deterministic state-graph agents, reflection loops, and adversarial stress-testing.
-- 🔎 **Enterprise RAG Architectures** — Page-bounded chunking, dense vector retrieval, and verbatim clause-level citations.
-- ⚡ **High-Throughput AI Backends** — Async FastAPI microservices, Redis caching/streams, and task queues.
-- 📄 **Document Intelligence Platforms** — Multi-document classification, entity extraction, and policy-driven human approval gates.
-- 🛠️ **AI Automation & Orchestration** — Self-healing workflows, tool-use grounding, and operational audit telemetry.
-- 📊 **Empirical Evaluation & Benchmarking** — Retrieval hit rate, answer faithfulness, citation validity, and latency scorecards.
+## 👨‍💻 Executive Summary
+
+I am a production-oriented **AI Engineer & Agent Architect**. I bridge the gap between frontier LLM intelligence and enterprise software engineering.
+
+Rather than building fragile wrappers around raw model prompts, I specialize in **deterministic multi-agent state machines, verifiable RAG with verbatim clause citations, red-teamed guardrails, and high-throughput data extraction engines.**
+
+> 🟢 **Open for Freelance & Contract Work:** Available for custom AI automation, document parsers, agentic workflows, and RAG pipelines. Fast **24-hour turnaround** on fixed-price projects ($25–$50).
 
 ---
 
-## ⭐ Featured Projects
+## 📊 Developer Metrics & Activity
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=amanpratap1999&show_icons=true&theme=tokyonight&bg_color=090D16&title_color=38BDF8&text_color=94A3B8&icon_color=00C875&border_color=334155&border_radius=12&hide_border=false" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpratap1999&layout=compact&theme=tokyonight&bg_color=090D16&title_color=38BDF8&text_color=94A3B8&border_color=334155&border_radius=12&hide_border=false" alt="Top Languages" />
+
+</div>
+
+---
+
+## ⭐ Featured Production Systems
+
+### ⚡ [AI Data Extraction & Cleaning Toolkit](https://github.com/amanpratap1999/ai-data-toolkit)
+**Enterprise Unstructured Data Pipeline (<45MB RAM Footprint)**
+
+A cloud-accelerated engine that transforms messy PDFs, logistics invoices, restaurant receipts, and raw web scrape dumps into publication-grade Excel spreadsheets and CRM-ready CSVs.
+
+- **Dynamic Excel Formulas:** Generates native recalculating formulas (`=C13*D13`, `=SUM(...)`, `=E18+E19+E20`) — edits automatically rebalance totals.
+- **B2B Normalization:** E.164 phone sanitization, corporate email-to-domain website inference, and multi-key deduplication (Company, Email, Phone).
+- **Usability Polish:** Freeze Panes (`A8`), column AutoFilters (`A7:J10`), and Executive Master KPI Registers.
+- **Tech:** Python 3.11 • OpenPyXL • Pydantic v2 • Cloud AI Inference • UTF-8 BOM CSV
+
+---
 
 ### ⚖️ [ClauseIQ RAG](https://github.com/amanpratap1999/clause-iq-rag)
-**Enterprise Policy & Contract Q&A Assistant with Clause-Level Provenance**
+**Enterprise Policy & Contract Q&A with Clause-Level Provenance**
 
-A production-oriented RAG system for legal contracts, HR policies, and compliance manuals. Enforces strict page-bounded document chunking and pairs embedded Qdrant vector search with verification logic to guarantee verifiable clause citations without hallucinations.
+A production-oriented RAG system for legal contracts, HR policies, and compliance manuals. Enforces page-bounded document chunking and pairs embedded Qdrant vector search with verification logic to guarantee verifiable clause citations without hallucinations.
 
-- **Key Highlights:** Embedded disk-persisted Qdrant (zero external SaaS dependency), interactive chat UI, and FastAPI backend.
-- **Benchmark Scorecard:** **91.7%** Retrieval Hit Rate • **83.3%** Answer Faithfulness • **100.0%** Citation Validity • **3.73 ms** Mean Query Latency.
-- **Tech:** Python • FastAPI • Qdrant Embedded • SentenceTransformers • PyPDF2 • Vanilla JS UI
+- **Scorecard:** **91.7%** Retrieval Hit Rate • **83.3%** Answer Faithfulness • **100.0%** Citation Validity • **3.73 ms** Latency.
+- **Architecture:** Embedded disk-persisted Qdrant (zero external SaaS dependency), interactive chat UI, and async FastAPI backend.
+- **Tech:** Python • FastAPI • Qdrant Embedded • SentenceTransformers • Vanilla JS UI
 
 ---
 
@@ -52,7 +76,7 @@ A production-oriented RAG system for legal contracts, HR policies, and complianc
 
 An enterprise-grade multi-agent autonomous research system powered by a 4-agent LangGraph state machine (**Search → Summarize → Write → Verify**). Features dual-boundary AWS Bedrock Guardrails, sub-12ms pgvector semantic caching, and a PyRIT adversarial stress-testing harness with a live War Room dashboard.
 
-- **Key Highlights:** Strict XPIA prompt-injection quarantine, empirical citation audits with auto-retry loops, and lossless SSE event telemetry over Redis Streams.
+- **Highlights:** Strict XPIA prompt-injection quarantine, empirical citation audits with auto-retry loops, and lossless SSE event telemetry over Redis Streams.
 - **Tech:** Python • LangGraph • FastAPI • PostgreSQL (pgvector) • Redis Streams • FastEmbed • PyRIT
 
 ---
@@ -62,8 +86,8 @@ An enterprise-grade multi-agent autonomous research system powered by a 4-agent 
 
 An intelligent incident triage agent that deterministically classifies customer tickets, executes actions via verified tool calling (orders, accounts, refunds), and safely routes high-risk or ambiguous requests to human supervisors with diagnostic context.
 
-- **Key Highlights:** Deterministic graph state machine preventing runaway loops, interactive web ops console, and zero false auto-resolutions.
-- **Benchmark Scorecard:** **100.0%** Routine Resolution • **100.0%** Correct Escalation • **0.0%** False Resolution Rate • **0.07 ms** Processing Latency.
+- **Scorecard:** **100.0%** Routine Resolution • **100.0%** Correct Escalation • **0.0%** False Resolution Rate • **0.07 ms** Latency.
+- **Architecture:** Deterministic graph state machine preventing runaway loops, interactive web ops console, and zero false auto-resolutions.
 - **Tech:** Python • FastAPI • SQLite • Deterministic Graph Engine • Web Ops UI
 
 ---
@@ -73,20 +97,9 @@ An intelligent incident triage agent that deterministically classifies customer 
 
 An enterprise document automation platform that ingests unstructured business PDFs, classifies document types, extracts validated operational entities, enforces deterministic policy-driven human approval gates, and dispatches automated downstream integration tasks.
 
-- **Key Highlights:** Dual runtime architecture featuring an interactive Streamlit Ops Console alongside an async FastAPI backend with SQLite audit trails.
-- **Benchmark Scorecard:** **100.0%** Classification Accuracy • **100.0%** Field Extraction • **0.0%** False Auto-Approvals • **7.98 ms** Latency.
+- **Scorecard:** **100.0%** Classification Accuracy • **100.0%** Field Extraction • **0.0%** False Auto-Approvals • **7.98 ms** Latency.
+- **Architecture:** Dual runtime featuring an interactive Streamlit Ops Console alongside an async FastAPI backend with SQLite audit trails.
 - **Tech:** Python • FastAPI • Streamlit • Finite State Machine • Pydantic • SQLite
-
----
-
-### 🎙️ [MeetPulse AI](https://github.com/amanpratap1999/meetpulse-ai)
-**Enterprise Meeting Intelligence & Action Item Extraction Engine**
-
-High-throughput intelligence service that transforms unstructured multi-speaker meeting transcripts into structured action items with verified speaker attribution, explicit deadline extraction, and cross-meeting semantic search.
-
-- **Key Highlights:** Cosine similarity vector search over transcript segments, REST API with Swagger documentation, and automated database sync.
-- **Benchmark Scorecard:** **92.8%** Extraction F1 • **100.0%** Recall • **0.81s** Processing Latency.
-- **Tech:** Python • FastAPI • SQLite / SQLAlchemy • Cosine Vector Search • Pydantic
 
 ---
 
@@ -95,48 +108,66 @@ High-throughput intelligence service that transforms unstructured multi-speaker 
 
 An AI-first testing platform that converts natural language business goals into autonomous browser testing plans. Decouples LLM reasoning from browser execution using Playwright, perception routing, visual grounding, and automated defect accounting.
 
-- **Key Highlights:** Dual runtime (Local Headed Browser with smooth cursor tracking vs. Docker Headless CI), automated recovery engine, and detailed diagnostic reporting.
-- **Tech:** Python • FastAPI • Celery • Redis • Playwright • PostgreSQL • React/Vite Dashboard
+- **Architecture:** Dual runtime (Local Headed Browser with smooth cursor tracking vs. Docker Headless CI), automated recovery engine, and detailed diagnostic reporting.
+- **Tech:** Python • FastAPI • Celery • Redis • Playwright • PostgreSQL • React/Vite
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Commercial Freelance Services
 
-| Category | Technologies & Tools |
-|---|---|
-| **AI / LLM & Agents** | LangGraph, LangChain, RAG Pipelines, Prompt Engineering, Guardrails, PyRIT Red Teaming, Semantic Caching |
-| **Vector & Retrieval** | Qdrant (Embedded & Server), PostgreSQL (pgvector), FastEmbed ONNX, Dense Embeddings, Hybrid Search |
-| **Backend & APIs** | Python 3.11+, FastAPI, Pydantic v2, AsyncIO, Celery, RESTful API Design, SSE (Server-Sent Events) |
-| **Data & Storage** | PostgreSQL, Redis, Redis Streams, SQLite, SQLAlchemy, Alembic |
-| **DevOps & Testing** | Docker, Docker Compose, GitHub Actions CI/CD, Pytest, Playwright, Linux / Windows |
-| **Frontend & UI** | Streamlit, React / Vite, TailwindCSS, Vanilla JS Web UIs |
+Looking for an experienced engineer to build high-converting, reliable automation for your business? I offer fixed-price deliverables with **24–48 hour turnaround**:
 
----
+| Service Offering | Typical Scope | Investment | Delivery |
+| :--- | :--- | :---: | :---: |
+| **Bespoke Document / Invoice Parser** | Custom Python script extracting PDFs, receipts, or invoices into dynamic formula Excel | **$25 – $40** | **24 Hours** |
+| **Web Scrape Cleaner & CRM Pipeline** | Raw scraped listing sanitization, phone formatting (E.164), domain inference & HubSpot CSV export | **$40 – $60** | **24–48 Hours** |
+| **Custom Multi-Agent / Tool Calling Bot** | Deterministic LangGraph state machine with custom API tool integrations and human escalation gates | **$80 – $150** | **3–5 Days** |
+| **Monthly Automation Retainer** | Ongoing script maintenance, evolving schema updates, and weekly batch processing runs | **$100 / mo** | **Ongoing** |
 
-## 📈 Engineering Philosophy
-
-I care about more than getting an LLM to produce an answer.
-
-I focus on building AI systems that are:
-
-- 🛡️ **Reliable & Guarded** — Guardrails against prompt injections, deterministic fallbacks, and human-in-the-loop gating for critical actions.
-- 📐 **Empirically Evaluated** — Quantified against ground-truth benchmarks for hit rate, faithfulness, citation validity, and latency.
-- 🔍 **Observable & Auditable** — Comprehensive step-by-step telemetry, execution traces, structured logs, and audit logs.
-- 🧪 **Test-Driven** — Strict unit, integration, and end-to-end testing with continuous integration verification on every commit.
-- 🧱 **Modular & API-First** — Decoupled reasoning, storage, and presentation layers exposed via clean OpenAPI/FastAPI contracts.
+> 🛡️ **Zero-Risk Guarantee:** Send me **1 sample file or messy data snippet**. I'll run a test extraction and send back the clean spreadsheet for free. If you're happy with the results, we proceed.
 
 ---
 
-## 🤝 Let's Connect
+## 🧰 Technical Stack & Ecosystem
 
-I'm interested in building ambitious AI products, autonomous agentic systems, and production-grade AI infrastructure.
+<div align="center">
 
-- 📧 **Email:** [amanpratapsingh1999@gmail.com](mailto:amanpratapsingh1999@gmail.com)
+| Domain | Technologies |
+| :--- | :--- |
+| **AI & Agentic Systems** | `LangGraph` • `LangChain` • `OpenAI` • `NVIDIA NIM` • `Llama 3` • `PyRIT Red Teaming` • `Guardrails` |
+| **Vector & Retrieval** | `Qdrant (Embedded & Server)` • `pgvector` • `FastEmbed ONNX` • `Hybrid BM25 + Dense` • `RAG Provenance` |
+| **Backend & Microservices**| `Python 3.11+` • `FastAPI` • `Pydantic v2` • `Redis & Streams` • `Celery` • `AsyncIO` • `RESTful APIs` |
+| **Data & Spreadsheets** | `PostgreSQL` • `SQLite` • `OpenPyXL (Live Formulas)` • `Pandas` • `PyPDF` • `SQLAlchemy` |
+| **DevOps & Testing** | `Docker` • `GitHub Actions CI/CD` • `Playwright` • `Pytest` • `Linux / Windows` |
+| **Frontend & Ops UI** | `React / Vite` • `Streamlit` • `TailwindCSS` • `Vanilla JS Ops Consoles` |
+
+<br/>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,githubactions,git,sqlite,react,tailwind,linux,bash" alt="Tech Skills" />
+</a>
+
+</div>
+
+---
+
+## 📐 Engineering Principles
+
+1. **Deterministic Over Probabilistic:** LLMs are powerful reasoning engines, but business operations demand deterministic boundaries. State graphs and policy gates ensure zero runaway loops.
+2. **Empirically Benchmarked:** Every architecture is backed by quantifiable scorecards — retrieval hit rates, faithfulness scores, and microsecond latency audits.
+3. **Auditable & Observable:** Comprehensive telemetry, structured audit logs, and clear execution traces on every run.
+4. **Lightweight & Resource-Conscious:** Optimized code that streams memory cleanly (<50MB RAM) without unnecessary bloated infrastructure.
+
+---
+
+## 📬 Let's Build Together
+
+Whether you need a quick 24-hour data extraction script, an enterprise RAG system, or an autonomous multi-agent pipeline:
+
+- 📧 **Direct Email:** [amanpratapsingh1999@gmail.com](mailto:amanpratapsingh1999@gmail.com)
 - 🐙 **GitHub:** [@amanpratap1999](https://github.com/amanpratap1999)
-- 📍 **Location:** India
+- 💳 **Payment Methods:** Invoiced securely via **PayPal**
 
----
-
-## 📌 Current Focus
-
-Building intelligent systems where **LLMs + agents + retrieval + automation** come together to solve real-world problems.
+<div align="center">
+  <sub>© 2026 Prakhar Singh • AI Engineer &amp; Agent Architect</sub>
+</div>
